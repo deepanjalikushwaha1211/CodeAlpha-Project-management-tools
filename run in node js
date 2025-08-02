@@ -1,0 +1,3 @@
+cd project-management-tool
+node backend/server.js
+  

@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f0f0f0;
+}
+section {
+  margin-bottom: 20px;
+}
+.project { 
+  background: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.task {
+  background: #eee;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 3px;
+}
+.comment {
+  margin-left: 10px;
+  font-size: 0.9em;
+}
